@@ -1,0 +1,88 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: rgb(43, 88, 151);
+}
+
+
+
+#logo img{
+    margin-top: -80px;
+    clip-path: inset(80px 0px 75px 0px);
+    scale: 1;
+    transition: 0.5s;
+    margin-bottom: -87px;
+    margin-right: 20px;
+ 
+}
+
+.navbar{
+    text-align: center;
+
+}
+
+#logo img:hover {
+    scale: 1.1;
+    background-color: rgba(0, 46, 19, 0.482);
+}
+
+#nav{
+    color: black;
+    font-size: 30px;
+    margin-right: 15px;
+    transition: 0.5s;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+#nav:hover{
+    background-color: rgba(0, 62, 8, 0.594);
+    font-size: 32px;
+}
+
+rect{
+    background-color: rgba(100, 151, 211, 0.438);
+
+}
+
+.rectangle {
+    margin-top: -20px;
+    margin-bottom: -50px;
+    margin-left: -8px;
+    background-color: #3f6686a8;
+    height: 70px;
+    width: 98.7vw;
+  }
+
+.banner{
+    text-align: center;
+    margin-bottom: 130px;
+
+}
+
+.banner img{
+    scale: 0.8;
+    transition: 0.5s;
+}
+
+.banner img:hover{
+    scale: 0.9;
+}
+
+#PrivacyPolicy{
+    color: black;
+
+    font-size: 20px;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+#PrivacyPolicy:hover{
+    background-color: #3f6686a8;
+}
