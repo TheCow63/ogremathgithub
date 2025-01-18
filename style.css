@@ -86,3 +86,32 @@ rect{
 #PrivacyPolicy:hover{
     background-color: #3f6686a8;
 }
+
+.practice{
+    text-align: center;
+    font-size: 20px;
+}
+.practice a{
+    font-size: 30px;
+    text-decoration: none;
+    transition: 0.5s;
+    color: rgb(82, 82, 82);
+}
+
+.practice p {
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+}
+
+.diagnostic{
+    text-align: center;
+    font-size: 40px;
+}
+.diagnostic input{
+    font-size: 20px;
+}
+.diagnostic p input{
+    font-size: 30px;
+}
+
